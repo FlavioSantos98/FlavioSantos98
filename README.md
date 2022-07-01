@@ -8,7 +8,7 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://images.squarespace-cdn.com/content/v1/5d407f2b4557bc000155cc04/1589577107857-2QGQ1IN11IHWL6IXC6AE/jordan+locker+cigar.gif">
+  <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://i.imgur.com/ajEdSn1.png?width=676&height=676">
 </div>
   
   ##
